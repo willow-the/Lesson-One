@@ -12,14 +12,15 @@ Your recipe page must include the following:
 * A picture of the final product. Or many pictures if you'd like!
 * An unordered list of ingredients.
 * An ordered list of directions.
+* Links to 3 other suggested recipes .
 * A table of nutritional facts (You can make these up if you would like to!) 
 
-*Confused? Look at the example [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe.*
-* Links to 3 other suggested recipes .
+>  *Confused by the nutritional facts? Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe.* 
+
 
 
 ####EXTENSION
 
 * Create a form that allows people to write a review of the recipe. 
 
-*hint!!! you will be using the `<form>` tag & google is your friend*
+> *HINT!!! you will be using `<form>` & google is your friend*
