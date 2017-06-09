@@ -17,8 +17,7 @@ Your recipe page must include the following:
 
 >  *Confused by the nutritional facts? Look at the [nutritional-facts](https://www.bettycrocker.com/recipes/italian-sausage-lasagna/2601a67c-438d-407a-b163-2f57ede06cb9) on this recipe.* 
 
-####EXTENSION
-
+#### EXTENSION
 
 * Create a form that allows people to write a review of the recipe. 
 
