@@ -1,4 +1,5 @@
 # RECIPE WEBSITE
+[TERMINAL AND GITHUB help](https://github.com/hello-world-tech-studios/terminal-and-github-help)
 
 #### Your mission is create a webpage for your favorite recipe.
 1. Find a recipe you would like to use.
