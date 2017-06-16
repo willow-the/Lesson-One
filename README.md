@@ -21,5 +21,6 @@ Your recipe page must include the following:
 #### EXTENSION
 
 * Create a form that allows people to write a review of the recipe. 
+* Begin styling your website!
 
 > *HINT!!! you will be using `<form>` & google is your friend*
