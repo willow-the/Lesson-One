@@ -1,0 +1,20 @@
+a:hover{
+color: red;
+}
+
+h2:hover{
+color: orange;
+}
+
+li:hover{
+color: green;
+}
+
+table, th, td {
+border: 1px solid black;
+}
+
+img {
+position: center;
+}
+
