@@ -3,7 +3,7 @@
 
 #### Your mission is create a webpage for your favorite recipe.
 1. Find a recipe you would like to use.
-2. Navigate to the `recipe.html` file in sublime.
+2. Navigate to the `recipe.html` file in atom.
 
 # THE CODE
 Your recipe page must include the following:
