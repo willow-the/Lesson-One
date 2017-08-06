@@ -1,0 +1,61 @@
+body {
+  background-color: #FF8C00;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+
+.directions {
+  display: flex;
+  justify-content: center;
+  width: 50vw;
+}
+
+h1 {
+  width: 100vw;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  width: 100%;
+  text-align: center;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+}
+
+li {
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  width: 100vw;
+}
+
+.nutrition {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  width:  100vw;
+}
+
+p {
+  width: 55vw;
+  margin: 10px;
+}
+
+td {
+  /*margin: 40px;*/
+}
